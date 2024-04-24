@@ -1,4 +1,8 @@
-Menu in list form, based on esx_menu_list, created for users who don't use the ESX framework. We designed this list due to the decreasing number of ESX framework users. Discord: https://discord.com/invite/mgwjDpwfdu
+CSS EDIT
+
+[Original Repo](https://github.com/user/repo/blob/branch/other_file.md)
+
+"Menu in list form, based on esx_menu_list, created for users who don't use the ESX framework. We designed this list due to the decreasing number of ESX framework users." - Glow Modify
 
 TEMPLATE: 
 ```
