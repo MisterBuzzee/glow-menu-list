@@ -37,4 +37,4 @@ Edit button colors and close icon colors at the top of style.css
     --close-hover:    #F03E3E;
 }
 ```
-![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg)
+![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/43/cZfZX5VMoKX/preview.jpg) 
