@@ -23,4 +23,4 @@ TEMPLATE:
 		--Your Code
 	end
 ```
-[!](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg)
+![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg)
