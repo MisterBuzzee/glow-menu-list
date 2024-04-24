@@ -36,7 +36,7 @@ $(document).ready(function() {
                                 $("#fullTextContent").text(cellData);
                                 $("#fullTextOverlay").show();
                             };
-                            const eyeIcon = $("<span>").text("👁️").css("cursor", "pointer");
+                            const eyeIcon = $("<span>").text(" ↴").css("cursor", "pointer");
                             eyeIcon.click(showFullText);
                             td.append(eyeIcon);
                         } else {
