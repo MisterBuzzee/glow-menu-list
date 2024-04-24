@@ -23,4 +23,14 @@ TEMPLATE:
 		--Your Code
 	end
 ```
+
+Edit button colors and close icon colors at the top of style.css
+```
+:root {
+    --button-color:   #1864AB;
+    --button-hover:   #1971c2;
+    --close-color:    #C92A2A;
+    --close-hover:    #F03E3E;
+}
+```
 ![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg)
