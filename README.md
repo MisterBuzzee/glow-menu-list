@@ -23,4 +23,4 @@ TEMPLATE:
 		--Your Code
 	end
 ```
-![]([https://media.discordapp.net/attachments/1077621817512038463/1232395685740019712/image.png?ex=66294d6c&is=6627fbec&hm=75c9df07e5007aa115e88bdf456c9a420ba840d3e5fea3aa85865cc6e0b40279&=&format=webp&quality=lossless&width=1005&height=396](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg))
+[!](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/20/cZfZXYVMomi/preview.jpg)
