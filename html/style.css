@@ -37,7 +37,6 @@ body {
   line-height: 1.5;
   width: 80%;
   max-width: 800px;
-  padding: 1rem 2rem;
   color: #E9ECEF;
   overflow: hidden;
   position: absolute;
@@ -89,7 +88,7 @@ th {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 5px 10px 5px 10px;
+  padding: 5px 10px 0px 10px;
   box-sizing: border-box;
 }
 
