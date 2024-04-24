@@ -1,6 +1,6 @@
 CSS EDIT
 
-[Original Repo](https://github.com/user/repo/blob/branch/other_file.md)
+[Original Repo](https://github.com/Glow-Modify/glow-menu-list) 
 
 "Menu in list form, based on esx_menu_list, created for users who don't use the ESX framework. We designed this list due to the decreasing number of ESX framework users." - Glow Modify
 
@@ -37,4 +37,4 @@ Edit button colors and close icon colors at the top of style.css
     --close-hover:    #F03E3E;
 }
 ```
-![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/43/cZfZX5VMoKX/preview.jpg) 
+![New Image](https://d1ka0itfguscri.cloudfront.net/ACQn/2024/04/24/11/43/cZfZX5VMoKX/preview.jpg)
